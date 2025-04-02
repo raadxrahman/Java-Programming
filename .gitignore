@@ -5,6 +5,8 @@ out/
 .idea
 Main.java
 Main1.java
+!**/src/Main.java
+
 
 
 ### Eclipse ###
