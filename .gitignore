@@ -2,10 +2,10 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+!**/src/test/**/.idea/
 .idea
 Java Programming.iml
-Main.java
-Main
+
 
 
 
