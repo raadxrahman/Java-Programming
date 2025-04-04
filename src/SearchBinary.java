@@ -1,9 +1,9 @@
-//binary search
+//Task3
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task03 {
+public class SearchBinary {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

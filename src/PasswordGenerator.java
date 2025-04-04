@@ -1,8 +1,8 @@
-//generate password
+//Task10
 
 import java.util.Random;
 
-public class Task10 {
+public class PasswordGenerator {
 
     public static String generateRandomPassword(int len) {
         String chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%&^*(){}[]/";

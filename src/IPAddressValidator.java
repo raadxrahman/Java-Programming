@@ -1,6 +1,6 @@
-//ip address validator
+//Task14
 
-public class Task14 {
+public class IPAddressValidator {
 
     public static boolean isValidIPAddress(String ipAddress) {
         if (ipAddress == null) {

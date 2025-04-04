@@ -1,8 +1,8 @@
-//find words, characters, vowels, consonants
+//Task08
 
 import java.util.Scanner;
 
-public class Task08 {
+public class CountFromString {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

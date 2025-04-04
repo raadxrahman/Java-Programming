@@ -1,8 +1,8 @@
-//banknotes
+//Task05
 
 import java.util.Scanner;
 
-public class Task05 {
+public class BankNotes {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

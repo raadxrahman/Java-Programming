@@ -1,6 +1,6 @@
-//second highest from array
+//Task1
 
-public class Task01 {
+public class SecondHighestFromArray {
     public static void main(String[] args) {
         double[] cgpa = {3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75};
         double highest = cgpa[0], secondHighest = cgpa[0];

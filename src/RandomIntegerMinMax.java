@@ -1,9 +1,9 @@
-//random array+minmax
+//Task04
 
 import java.util.Random;
 import java.util.Arrays;
 
-public class Task04 {
+public class RandomIntegerMinMax {
 
     private void minMax(int[] array) {
         int min = array[0];
@@ -31,8 +31,8 @@ public class Task04 {
         }
         System.out.println("Random Generated Array: " + Arrays.toString(array));
 
-        Task04 task04 = new Task04();
-        task04.minMax(array);
+        RandomIntegerMinMax randomIntegerMinMax = new RandomIntegerMinMax();
+        randomIntegerMinMax.minMax(array);
 
     }
 

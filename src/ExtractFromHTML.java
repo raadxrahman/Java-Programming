@@ -1,6 +1,6 @@
-//extract from html
+//Task13
 
-public class Task13 {
+public class ExtractFromHTML {
 
     public static String extractTransactionId(String html) {
         String searchString = "Transaction Id: ";

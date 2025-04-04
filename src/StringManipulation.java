@@ -1,8 +1,8 @@
-//string manipulation
+//Task11
 
 import java.util.Scanner;
 
-public class Task11 {
+public class StringManipulation {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
-//match output
+//Task06
 
-public class Task06 {
+public class PatternedOutput {
     public static void main(String[] args) {
 
 

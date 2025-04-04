@@ -1,8 +1,8 @@
-//two lowest from input
+//Task07
 
 import java.util.Scanner;
 
-public class Task07 {
+public class LowestInput {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

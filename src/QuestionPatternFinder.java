@@ -1,6 +1,6 @@
-//find combination
+//Task15
 
-public class Task15 {
+public class QuestionPatternFinder {
 
     public static void calculateQuestions() {
         int totalQuestions = 15;

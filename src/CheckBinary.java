@@ -1,8 +1,8 @@
-//input is binary or not
+//Task09
 
 import java.util.Scanner;
 
-public class Task09 {
+public class CheckBinary {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
