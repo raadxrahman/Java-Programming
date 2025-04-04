@@ -1,3 +1,5 @@
+//string manipulation
+
 import java.util.Scanner;
 
 public class Task11 {

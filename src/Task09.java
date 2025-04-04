@@ -1,3 +1,5 @@
+//input is binary or not
+
 import java.util.Scanner;
 
 public class Task09 {

@@ -4,6 +4,9 @@ out/
 !**/src/test/**/out/
 .idea
 Java Programming.iml
+Main.java
+Main
+
 
 
 ### Eclipse ###
